@@ -1,5 +1,5 @@
 //
-//  APSViewController.h
+//  APSTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Andy Sharkey on 9/14/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface APSViewController : UIViewController
+@interface APSTableViewController : UITableViewController
 
 @end
